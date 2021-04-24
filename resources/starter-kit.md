@@ -14,23 +14,12 @@
 
 <table>
   <tr>
-    <th align="left">Git</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>Git is the free and open source distributed version control system that's responsible for everything GitHub 
-related that happens locally on your computer.</td>
-    <td align="center"><a href="https://git-scm.com/downloads">View</a></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <th align="left">Git Cheat Sheet</th>
     <th>Link</th>
   </tr>
   <tr>
-    <td>This cheat sheet features the most important and commonly used Git commands for easy reference.</td>
+    <td>Git is the free and open source distributed version control system that's responsible for everything GitHub 
+related that happens locally on your computer. This cheat sheet features the most important and commonly used Git commands for easy reference.</td>
     <td align="center"><a href="https://education.github.com/git-cheat-sheet-education.pdf">View</a></td>
   </tr>
 </table>
