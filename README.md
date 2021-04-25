@@ -10,4 +10,4 @@
 <hr />
 
 <h3>Please wait other resources</h3>
-<p>Have an idea? feel free to raise an issue <a href="https://github.com/SurPathHub/starter-kit/issues">here</a>
+<p>Have an idea? Want to help us? Please go <a href="https://github.com/SurPathHub/starter-kit/discussions/2">here</a> first
