@@ -5,7 +5,7 @@
 |-------------|:---------:|:-----:|
 | Starter Kit | We provide a starter kit for you to start | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/starter-kit.md">View Link</a> |
 | Roadmap     | Find Your Path | <a href="https://github.com/SurPathHub/starter-kit/tree/main/roadmap">View Link</a> |
-| Free Courses | Not available yet | N/A |
+| Free Courses | Learn to Code for free | <a href="https://github.com/SurPathHub/starter-kit/blob/main/courses/free-course-list.md">View Link</a> |
 
 <hr />
 
