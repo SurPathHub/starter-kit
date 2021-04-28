@@ -4,7 +4,7 @@
 | Title       | About      | Link  |
 |-------------|:---------:|:-----:|
 | Starter Kit | We provide a starter kit for you to start | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/starter-kit.md">View Link</a> |
-| Roadmap     | Not available yet | N/A |
+| Roadmap     | Find Your Path | <a href="https://github.com/SurPathHub/starter-kit/tree/main/roadmap">View Link</a> |
 | Exercises   | Not available yet | N/A |
 
 <hr />
