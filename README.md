@@ -1,5 +1,15 @@
-<h1>The beginning of your career path</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# The beginning of your career path
+- In the tech industry & open-source world, it doesn't matter who you are, everyone will love you and will appreciate your idea even it is small. Even if you drop out of college because of financial problems or even you have zero knowledge, we will help you to grow and get you into the tech industry.
+
+<hr />
+
+### Why you should start coding?
+- Learn more from the best mentor we have - <a href="https://www.youtube.com/watch?v=WnvgzVQP7OM">>Eddie Jaoude</a><br>
+[![eddiejaoude-video](https://img.youtube.com/vi/WnvgzVQP7OM/0.jpg)](https://www.youtube.com/watch?v=WnvgzVQP7OM)
+
+<hr />
+
+### Resources: 
 
 | Title       | About      | Link  |
 |-------------|:---------:|:-----:|
