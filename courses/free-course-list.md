@@ -60,4 +60,13 @@
   </tr>
 </table>
 
-<h3 align="center">Please wait for other resources</h3>
+<table>
+  <tr>
+    <th align="left">Free GitHub Bootcamp tutorial (full course)</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>With new features coming out all the time, GitHub is growing and it can be confusing to keep up with it all. In this video I will go over the basics so you can have a better understanding of how to use it and how it all works.</td>
+    <td align="center"><a href="https://www.youtube.com/watch?v=SYtPC9tHYyQ">View</a></td>
+  </tr>
+</table>
