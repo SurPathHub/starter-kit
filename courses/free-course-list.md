@@ -56,6 +56,17 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th align="left">CodeCademy</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Codecademy is an American online interactive platform that offers <strong>Free</strong> coding classes in 12 different programming languages including Python, Java, Go, JavaScript, Ruby, SQL, C++, C#, Swift, and Sass, as well as markup languages HTML and CSS. They also offers a paid <strong>Pro</strong> option that gives users access to personalized learning plans, quizzes, and realistic projects.</td>
+    <td align="center"><a href="https://www.codecademy.com/">View</a></td>
+  </tr>
+</table>
+
 <hr>
 
 <h2 align="center">SPECIAL</h2>
