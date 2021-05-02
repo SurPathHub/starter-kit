@@ -35,4 +35,6 @@ related that happens locally on your computer. This cheat sheet features the mos
   </tr>
 </table>
 
-<h3 align="center">Please wait other resources</h3>
+<p align="center">
+<a href="https://github.com/SurPathHub/starter-kit">Back</a>
+</p>
