@@ -51,7 +51,7 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>SoloLearn is a series of free apps that allows users to learn a variety of programming languages and concepts through short lessons, code challenges, and quizzes.Learning on SoloLearn has always been free because I believe that access to education can change the world.It goes over the basics for every course very well and does progressively get more difficult. There is also a great community on the app for asking questions/reading others questions.</td>
+    <td>SoloLearn is a series of free apps that allows users to learn a variety of programming languages and concepts through short lessons, code challenges, and quizzes. Learning on SoloLearn has always been free because I believe that access to education can change the world. It goes over the basics for every course very well and does progressively get more difficult. There is also a great community on the app for asking questions/reading other's questions.</td>
     <td align="center"><a href="https://www.sololearn.com/">View</a></td>
   </tr>
 </table>
