@@ -67,6 +67,17 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th align="left">KhanAcademy</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computing, history, art history, economics, and more, including K-14 and test preparation (SAT, Praxis, LSAT) content. We focus on skill mastery to help learners establish strong foundations, so there's no limit to what they can learn next!</td>
+    <td align="center"><a href="https://www.khanacademy.org/">View</a></td>
+  </tr>
+</table>
+
 <hr>
 
 <h2 align="center">SPECIAL</h2>
