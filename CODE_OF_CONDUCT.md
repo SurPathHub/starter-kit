@@ -138,4 +138,4 @@ at [https://www.contributor-covenant.org/translations][translations].
 
 If you see someone violates our code of conduct within the SurPath Hub GitHub Organization and Discord Community, ways to report the incident and get support are listed below
 
--   Mention @moderator or @admin or vinzvinci#5227 in the discord community & the SurPath Hub Core Team surpathofficial@gmail.com
+-   Mention @moderator or @admin or @vinzvinci#5227 in the discord community & the SurPath Hub Core Team surpathofficial@gmail.com
