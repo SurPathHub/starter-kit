@@ -17,6 +17,8 @@
 | Free Courses | Learn to Code for free | <a href="https://github.com/SurPathHub/starter-kit/blob/main/courses/free-course-list.md">View Link</a> |
 | Starter Kit | We provide a starter kit for you to start | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/starter-kit.md">View Link</a> |
 
+Note: You don't need to know it all, just choose the path you love. Follow your dream 💡
+
 <hr />
 
 ### Join the Open Source Community to continue your journey
