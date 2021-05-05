@@ -14,8 +14,9 @@
 | Title       | About      | Link  |
 |-------------|:---------:|:-----:|
 | Roadmap     | Find Your Path | <a href="https://github.com/SurPathHub/starter-kit/tree/main/roadmap">View Link</a> |
-| Free Courses | Learn to Code for free | <a href="https://github.com/SurPathHub/starter-kit/blob/main/courses/free-course-list.md">View Link</a> |
-| Starter Kit | We provide a starter kit for you to start | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/starter-kit.md">View Link</a> |
+| Free Courses | Learn for Free | <a href="https://github.com/SurPathHub/starter-kit/blob/main/courses/free-course-list.md">View Link</a> |
+| Starter Kit | We provide a starter kit for you | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/starter-kit.md">View Link</a> |
+| Practice | Open Source Practice | <a href="https://github.com/SurPathHub/hacktoberfest-philippines">View Link</a> |
 
 Note: You don't need to know it all, just choose the path you love. Follow your dream 💡
 
