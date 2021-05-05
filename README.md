@@ -22,7 +22,7 @@ Note: You don't need to know it all, just choose the path you love. Follow your 
 
 <hr />
 
-<details><summary>Be Inspire!</summary>
+<details><summary>Watch & Be Inspire!</summary>
 
 <table>
   <tr>
@@ -32,17 +32,22 @@ Note: You don't need to know it all, just choose the path you love. Follow your 
   </tr>
   <tr>
     <td>Software Engineer</td>
-    <td align="center">WEEK IN THE LIFE software engineer in LA</td>
-    <td><a href="https://www.youtube.com/watch?v=JPTjXg6PrnQ">View Link</a></td>
-  </tr>
-  <tr>
-    <td>Software Engineer</td>
     <td>Day in the Life of a Remote Software Engineer</td>
     <td><a href="https://www.youtube.com/watch?v=OGaWn1G0h4c&t=295s">View Link</a></td>
   </tr>
   <tr>
+    <td>Software Engineer</td>
+    <td>WEEK IN THE LIFE software engineer in LA</td>
+    <td><a href="https://www.youtube.com/watch?v=JPTjXg6PrnQ">View Link</a></td>
+  </tr>
+  <tr>
     <td>Data Scientist</td>
-    <td align="center">Work Week in My Life as a Data Scientist</td>
+    <td>A day in the life of a Data Scientist (lifestyle)</td>
+    <td><a href="https://www.youtube.com/watch?v=Hz4ihJJAMJ8">View Link</a></td>
+  </tr>
+  <tr>
+    <td>Data Scientist</td>
+    <td>Work Week in My Life as a Data Scientist</td>
     <td><a href="https://www.youtube.com/watch?v=yfLczGFw-ok">View Link</a></td>
   </tr>
 </table>  
