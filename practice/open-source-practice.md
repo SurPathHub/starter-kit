@@ -7,7 +7,7 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>This repository will help you practice for the incoming Hacktoberfest—a month-long celebration of open-source software</td>
+    <td>This repository will help you practice for the incoming Hacktoberfest—a month-long celebration of open-source software. Hacktoberfest is open to everyone in our global community!</td>
     <td align="center"><a href="https://github.com/SurPathHub/hacktoberfest-philippines">View</a></td>
   </tr>
 </table>
