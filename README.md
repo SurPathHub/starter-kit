@@ -53,6 +53,10 @@ Note: You don't need to know it all, just choose the path you love. Follow your 
 </table>  
 </details>
 
+<details><summary>Overworking Yourself As A Developer | Mental & Physical Health</summary>
+<a href="https://www.youtube.com/watch?v=BKQVqzhnP8I&t=261s"><img src="https://img.youtube.com/vi/BKQVqzhnP8I/0.jpg"></a>
+</details>
+
 <hr />
 
 ### Join the Open Source Community to continue your journey
