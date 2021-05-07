@@ -1,10 +1,10 @@
 # The beginning of your career path
-- In the tech industry & open-source world, it doesn't matter who you are, everyone will love you and will appreciate your idea even it is small. Even if you drop out of college because of financial problems or even you have zero knowledge, we will help you to grow and get you into the tech industry. Everyone is welcome in tech and you don't need to have a computer science degree. You should start coding today - open-source coding is for everyone. There are so many free online resources for you to learn. I believes in open source, remote & flexible working, diversity & inclusion in tech. Having seen this first hand at collaborative events, open source hackathons and my own startup. The life of a developer is amazing!!
+- In the tech industry & open-source world, it doesn't matter who you are, everyone will love you and will appreciate your idea even it is small. Even if you drop out of college because of financial problems or even you have zero knowledge, we will help you to grow and get you into the tech industry. Everyone is welcome in tech and you don't need to have a computer science degree. You should start coding today - open-source coding is for everyone. There are so many free online resources for you to learn. I believe in open-source, remote & flexible working, diversity & inclusion in tech. Having seen this first hand at collaborative events, open-source hackathons, and my own startup. The life of a developer is amazing!!
 
 <hr />
 
 ### Why you should start coding?
-- Learn more from the best mentor we have - <a href="https://www.youtube.com/watch?v=WnvgzVQP7OM">>Eddie Jaoude</a><br>
+- Learn more from the best mentor we have - <a href="https://www.youtube.com/watch?v=WnvgzVQP7OM">>Eddie Jaoude</a> `(click the name or image)`<br> 
 [![eddiejaoude-video](https://img.youtube.com/vi/WnvgzVQP7OM/0.jpg)](https://www.youtube.com/watch?v=WnvgzVQP7OM)
 
 <hr />
