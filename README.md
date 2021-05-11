@@ -48,13 +48,17 @@
 <a href="https://www.youtube.com/watch?v=g_aMpyMvQ9k"><img src="https://img.youtube.com/vi/g_aMpyMvQ9k/0.jpg"></a>
 </details>
 
+<details><summary>3 Important Tips for Making Career Decisions in Tech</summary>
+<a href="https://www.youtube.com/watch?v=syyzEdQQ6yI"><img src="https://img.youtube.com/vi/syyzEdQQ6yI/0.jpg"></a>  
+</details>  
+  
 <hr />
 
 ### Resources: 
 
 | Title       | About      | Link  |
 |-------------|:---------:|:-----:|
-| Roadmap     | Find Your Path | <a href="https://github.com/SurPathHub/starter-kit/tree/main/roadmap">View Link</a> |
+| Roadmap     | Find your Career Path | <a href="https://github.com/SurPathHub/starter-kit/tree/main/roadmap">View Link</a> |
 | Free Courses | Learn for Free | <a href="https://github.com/SurPathHub/starter-kit/blob/main/courses/free-course-list.md">View Link</a> |
 | Starter Kit | We provide a starter kit for you | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/starter-kit.md">View Link</a> |
 | Practice | Open Source Practice | <a href="https://github.com/SurPathHub/starter-kit/blob/main/practice/open-source-practice.md">View Link</a> |
