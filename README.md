@@ -96,12 +96,12 @@ Note: You don't need to know it all, just choose the path you love. Follow your 
   <tr>
     <td>SurPath Hub</td>
     <td>Only people from the Philippines can join our discord server and GitHub organization but everyone can contribute to our open-source projects.</td>
-    <td><a href="https://surpathhub.github.io/">View</td>
+    <td><a href="https://surpathhub.github.io/">View</a></td>
   </tr>
   <tr>
     <td>EddieHub</td>
     <td>Everyone is welcome to join to discord server and GitHub organization</td>
-    <td><a href="https://www.eddiehub.org">View</a>
+    <td><a href="https://www.eddiehub.org">View</a></td>
   </tr>
 </table>
 
