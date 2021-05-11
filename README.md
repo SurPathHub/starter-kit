@@ -57,6 +57,10 @@ Note: You don't need to know it all, just choose the path you love. Follow your 
 <a href="https://www.youtube.com/watch?v=BKQVqzhnP8I&t=261s"><img src="https://img.youtube.com/vi/BKQVqzhnP8I/0.jpg"></a>
 </details>
 
+<details><summary>Escape Tutorial Hell & Utilize Them In A Better Way</summary>
+<a href="https://www.youtube.com/watch?v=g_aMpyMvQ9k"><img src="https://img.youtube.com/vi/g_aMpyMvQ9k/0.jpg"></a>
+</details>
+
 <hr />
 
 ### Join the Open Source Community to continue your journey
