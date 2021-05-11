@@ -9,19 +9,6 @@
 
 <hr />
 
-### Resources: 
-
-| Title       | About      | Link  |
-|-------------|:---------:|:-----:|
-| Roadmap     | Find Your Path | <a href="https://github.com/SurPathHub/starter-kit/tree/main/roadmap">View Link</a> |
-| Free Courses | Learn for Free | <a href="https://github.com/SurPathHub/starter-kit/blob/main/courses/free-course-list.md">View Link</a> |
-| Starter Kit | We provide a starter kit for you | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/starter-kit.md">View Link</a> |
-| Practice | Open Source Practice | <a href="https://github.com/SurPathHub/starter-kit/blob/main/practice/open-source-practice.md">View Link</a> |
-
-Note: You don't need to know it all, just choose the path you love. Follow your dream 💡
-
-<hr />
-
 <details><summary>Watch & Be Inspire!</summary>
 
 <table>
@@ -60,6 +47,19 @@ Note: You don't need to know it all, just choose the path you love. Follow your 
 <details><summary>Escape Tutorial Hell & Utilize Them In A Better Way</summary>
 <a href="https://www.youtube.com/watch?v=g_aMpyMvQ9k"><img src="https://img.youtube.com/vi/g_aMpyMvQ9k/0.jpg"></a>
 </details>
+
+<hr />
+
+### Resources: 
+
+| Title       | About      | Link  |
+|-------------|:---------:|:-----:|
+| Roadmap     | Find Your Path | <a href="https://github.com/SurPathHub/starter-kit/tree/main/roadmap">View Link</a> |
+| Free Courses | Learn for Free | <a href="https://github.com/SurPathHub/starter-kit/blob/main/courses/free-course-list.md">View Link</a> |
+| Starter Kit | We provide a starter kit for you | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/starter-kit.md">View Link</a> |
+| Practice | Open Source Practice | <a href="https://github.com/SurPathHub/starter-kit/blob/main/practice/open-source-practice.md">View Link</a> |
+
+Note: You don't need to know it all, just choose the path you love. Follow your dream 💡
 
 <hr />
 
