@@ -9,6 +9,8 @@
 
 <hr />
 
+`Note: Just click the text to view or to minimize the content & just click the image to watch the video`
+
 <details><summary>Watch & Be Inspire!</summary>
 
 <table>
