@@ -37,9 +37,7 @@
 </table>
 
 <hr />
-<p align="center">Hey folks, there's a lot of good-first-issues, you can search it:</p>
 
-![good-first-issue](https://user-images.githubusercontent.com/73097560/118112666-e38f5100-b417-11eb-8cb9-05443ad17706.png)
+<p align="center">Find more issues to contribute<br>How to find Open Source good first issues issues on GitHub</p>
 
-- You can add `good-first-issues (language)`
-  - ex. good-first-issues javascript
+<p align="center"><a href="https://www.youtube.com/watch?v=TAYFJZzCG3s" alt="eddiejaoude-video"><img src="https://img.youtube.com/vi/TAYFJZzCG3s/0.jpg"></p>
