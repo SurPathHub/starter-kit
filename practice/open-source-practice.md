@@ -1,6 +1,8 @@
 <h1 align="center">Open Source Practice</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="center">This content may guide you on how will you contribute to the other repository and get your <strong>green square or contributions</strong></p>
+
 <table>
   <tr>
     <th align="left">Hacktoberfest Philippines</th>
@@ -33,3 +35,11 @@
     <td align="center"><a href="https://github.com/SurPathHub/showcase-your-project">View</a></td>
   </tr>
 </table>
+
+<hr />
+<p align="center">Hey folks, there's a lot of good-first-issues, you can search it:</p>
+
+![good-first-issue](https://user-images.githubusercontent.com/73097560/118112666-e38f5100-b417-11eb-8cb9-05443ad17706.png)
+
+- You can add `good-first-issues (language)`
+  - ex. good-first-issues javascript
