@@ -107,4 +107,4 @@ Note: You don't need to know it all, just choose the path you love. Follow your 
 
 <hr />
 
-<p>Have an idea? Want to help us? Feel free to contribute!</p>
+<p>Have an idea? Want to help us? Feel free to <a href="CONTRIBUTING.md">contribute</a>!</p>
