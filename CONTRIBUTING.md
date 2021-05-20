@@ -1,6 +1,6 @@
 # BECOME A CONTRIBUTOR
 
-By participating in this project, you agree to abide by the [Contributor Covenant](CONTRIBUTING.md).
+By participating in this project, you agree to abide by the [Contributor Covenant](CODE_OF_CONDUCT.md).
 
 ## Note
 - Please create an issue first before creating a `Pull request` and wait for the maintainer/admin for the approval.
