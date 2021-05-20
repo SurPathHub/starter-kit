@@ -7,7 +7,9 @@
 
 <p align="center">How to find Open Source good first issues issues on GitHub</p>
 
-<p align="center"><a href="https://www.youtube.com/watch?v=TAYFJZzCG3s" alt="eddiejaoude-video"><img src="https://img.youtube.com/vi/TAYFJZzCG3s/0.jpg"></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=TAYFJZzCG3s" alt="eddiejaoude-video"><img src="https://img.youtube.com/vi/TAYFJZzCG3s/0.jpg"></a></p>
+
+<p align="center">You can also check our <a href="https://github.com/SurPathHub">GitHub organization</a> repositories and check if there's open issues. If you have new idea or suggestions, feel free to open new issues.</p>
 
 <p align="center">
 <a href="https://github.com/SurPathHub/starter-kit">Back</a>
