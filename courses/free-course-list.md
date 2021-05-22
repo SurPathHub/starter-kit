@@ -73,7 +73,7 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>Python Programming tutorials from beginner to advanced on a massive variety of topics. All video and text tutorials are free.</td>
+    <td>Programming is one of the most important fields moving into the future, and anyone who is interested in learning about programming should have immediate access. Python Programming tutorials from beginner to advanced on a massive variety of topics. All video and text tutorials are free.</td>
     <td align="center"><a href="https://pythonprogramming.net/">View</a></td>
   </tr>
 </table>
