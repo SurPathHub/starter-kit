@@ -3,6 +3,18 @@
 
 <table>
   <tr>
+    <th align="left">GitHub Guides</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
+</td>
+    <td align="center"><a href="https://guides.github.com/activities/hello-world/">View</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th align="left">GitHub Student Developer Pack</th>
     <th>Link</th>
   </tr>
