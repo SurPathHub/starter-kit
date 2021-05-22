@@ -67,6 +67,17 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th align="left">Python Programming</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Python Programming tutorials from beginner to advanced on a massive variety of topics. All video and text tutorials are free.</td>
+    <td align="center"><a href="https://pythonprogramming.net/">View</a></td>
+  </tr>
+</table>
+
 <hr>
 
 <h2 align="center">SPECIAL</h2>
