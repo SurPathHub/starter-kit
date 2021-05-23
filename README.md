@@ -5,12 +5,12 @@ The first step is create your account on <a href="https://github.com/">GitHub</a
 - In the tech industry & open-source world, it doesn't matter who you are, everyone will love you and will appreciate your idea even it is small. Even if you drop out of college because of financial problems or even you have zero knowledge, we will help you to grow and get you into the tech industry. Everyone is welcome in tech and you don't need to have a computer science degree. You should start coding today - open-source coding is for everyone. There are so many free online <a href="https://github.com/SurPathHub/starter-kit#resources">resources</a> for you to learn. I believe in open-source, remote & flexible working, diversity & inclusion in tech. Having seen this first hand at collaborative events, open-source hackathons, and my own startup. The life of a developer is amazing!!
 
 ### Why you should start coding?
-- Learn more from the best mentor we have - <a href="https://www.youtube.com/watch?v=WnvgzVQP7OM">>Eddie Jaoude</a> `(click the name or image)`<br> 
+- Learn more from the best mentor we have - <a href="https://www.youtube.com/watch?v=WnvgzVQP7OM">>Eddie Jaoude</a><br>
 [![eddiejaoude-video](https://img.youtube.com/vi/WnvgzVQP7OM/0.jpg)](https://www.youtube.com/watch?v=WnvgzVQP7OM)
 
 <hr />
 
-`Note: Just click the text to view or to minimize the content & just click the image to watch the video`
+Note: Just click the text to view & to minimize the content. Just click the image to watch the video:
 
 <details><summary>Watch & Be Inspired!</summary>
 
