@@ -11,6 +11,13 @@
 
 <p align="center">You can also check our <a href="https://github.com/SurPathHub">GitHub organization</a> repositories and check if there's open issues. If you have new idea or suggestions, feel free to open new issues.</p>
 
+<p align="center">Here are some of the website and repo which help's you to find <a href="#"> good first issue</a> based on the programming language you know. </p>
+
+- [GitHub Explore](https://github.com/explore/)
+- [First Timers Only](https://www.firsttimersonly.com/)
+- [Up for Grabs](https://up-for-grabs.net/#/)
+- [First Contributions](https://firstcontributions.github.io/)
+- [awesome for beginner ](https://github.com/MunGell/awesome-for-beginners)
 <p align="center">
 <a href="https://github.com/SurPathHub/starter-kit">Back</a>
 </p>
