@@ -19,6 +19,9 @@ The steps may help you if you're going to make big changes:
 
 **DONE**
 
+## Please follow the Conventional Commits
+- <a href="https://gist.github.com/Zekfad/f51cb06ac76e2457f11c80ed705c95a3">Conventional Commits Cheatsheet</a>
+
 <hr />
 
 ## Additional
