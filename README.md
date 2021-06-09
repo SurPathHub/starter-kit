@@ -83,13 +83,13 @@ Note: You don't need to know it all, just choose the path you love. Follow your 
   <tr>
     <td align="center">SurPath Hub</td>
     <td><a href="https://github.com/SurPathHub"><img src="https://avatars3.githubusercontent.com/u/75564428?s=150&v=4" /></a></td>
-    <td align="center"><strong>Local Community</strong> <blockquote>Inspired by EddieHub</blockquote></td>
+    <td><strong>Local Community</strong> <blockquote>Inspired by EddieHub</blockquote></td>
     <td>Our aim is to put every Filipino student aspiring developer into an open-source world regardless of their position in life and everyone will receive equal treatment</td>
   </tr>
   <tr>
     <td>EddieHub</td>
     <td><a href="https://github.com/EddieHubCommunity"><img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" /></a></td>
-    <td align="center"><strong>Global Community</strong> <blockquote>Collaboration first, Code 2nd.</blockquote></td>
+    <td><strong>Global Community</strong> <blockquote>Collaboration first, Code 2nd.</blockquote></td>
     <td>We are invested in getting you those green squares 🟩 on GitHub! Contributing to Open Source Software (OSS) is a great way for you to learn, work with different people and also network.</td>
   </tr>
 </table>
