@@ -65,7 +65,7 @@ Note: Just click the text to view & to minimize the content. Just click the imag
 | Free Courses | Learn for Free | <a href="https://github.com/SurPathHub/starter-kit/blob/main/courses/free-course-list.md">View Link</a> |
 | Starter Kit | We provide a starter kit for you | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/starter-kit.md">View Link</a> |
 | Practice | Open Source Practice | <a href="https://github.com/SurPathHub/starter-kit/blob/main/practice/open-source-practice.md">View Link</a> |
-| Project Ideas | Collection of app ideas for your next project | <a href="https://github.com/florinpop17/app-ideas">View Link</a> |
+| Others | Useful GitHub repositories. | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/useful-repositories.md">View Link</a> |
 
 Note: You don't need to know it all, just choose the path you love. Follow your dream 💡
 
@@ -110,5 +110,7 @@ Note: You don't need to know it all, just choose the path you love. Follow your 
 </table>
 
 <hr />
+
+<p>Thanks to all creators & developers out there for giving good content 🖤</p>
 
 <p>Have an idea? Want to help us? Feel free to <a href="CONTRIBUTING.md">contribute</a>!</p>
