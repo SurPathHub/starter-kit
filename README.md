@@ -40,6 +40,16 @@ Note: Just click the text to view & to minimize the content. Just click the imag
     <td>Work Week in My Life as a Data Scientist</td>
     <td><a href="https://www.youtube.com/watch?v=yfLczGFw-ok">View Link</a></td>
   </tr>
+  <tr>
+    <td>DevOps Engineer</td>
+    <td>Day in the Life of a DevOps Engineer at Fearless</td>
+    <td><a href="https://www.youtube.com/watch?v=wySfl5AXTG4">View Link</a></td>
+  </tr>
+  <tr>
+    <td>Cloud Architect</td>
+    <td>A Day in a life of a Cloud Architect</td>
+    <td><a href="https://www.youtube.com/watch?v=eRx6pFRwVDA">View Link</a></td>
+  </tr>
 </table>  
 </details>
 
