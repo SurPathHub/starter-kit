@@ -78,6 +78,16 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th align="left">Code.org</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Code.org® is a nonprofit dedicated to expanding access to computer science in schools and increasing participation by young women and students from other underrepresented groups. Our vision is that every student in every school has the opportunity to learn computer science as part of their core K-12 education.</td>
+    <td align="center"><a href="https://code.org/">View</a></td>
+  </tr>
+</table>
 <hr>
 
 <h2 align="center">SPECIAL</h2>
