@@ -75,7 +75,8 @@ Note: Just click the text to view & to minimize the content. Just click the imag
 | Free Courses | Learn for Free | <a href="https://github.com/SurPathHub/starter-kit/blob/main/courses/free-course-list.md">View Link</a> |
 | Starter Kit | We provide a starter kit for you | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/starter-kit.md">View Link</a> |
 | Practice | Open Source Practice | <a href="https://github.com/SurPathHub/starter-kit/blob/main/practice/open-source-practice.md">View Link</a> |
-| Others | Useful GitHub repositories. | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/useful-repositories.md">View Link</a> |
+| Useful Repo. | Useful GitHub repositories. | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/useful-repositories.md">View Link</a> |
+| Stakes.social | Stakes your OSS project | <a href="https://stakes.social/">View Link</a> |
 
 Note: You don't need to know it all, just choose the path you love. Follow your dream 💡
 
