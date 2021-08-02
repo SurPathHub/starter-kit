@@ -4,7 +4,7 @@ By participating in this project, you agree to abide by the [Contributor Covenan
 
 ## Note
 - Please create an issue first before creating a `Pull request` and wait for the maintainer/admin for the approval.
-- If your issue is approve by the maintainer/admin, you can now start work with it. 
+- If your issue is approved by the maintainer/admin, you can now start work with it. 
 
 The steps may help you if you're going to make big changes:
 
