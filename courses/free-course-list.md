@@ -102,6 +102,18 @@
 </table>
 <hr>
 
+<table>
+  <tr>
+    <th align="left">Full Stack Open 2021</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.</td>
+    <td align="center"><a href="https://fullstackopen.com/">View</a></td>
+  </tr>
+</table>
+<hr>
+
 <h2 align="center">SPECIAL</h2>
 
 <table>
