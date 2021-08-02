@@ -90,6 +90,18 @@
 </table>
 <hr>
 
+<table>
+  <tr>
+    <th align="left">App Academy Open</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>App Academy Open is a paid bootcamp but has a free and open bootcamp-based curriculum that everyone can use to start off their full-stack development journey.</td>
+    <td align="center"><a href="https://open.appacademy.io/">View</a></td>
+  </tr>
+</table>
+<hr>
+
 <h2 align="center">SPECIAL</h2>
 
 <table>
