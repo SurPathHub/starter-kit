@@ -47,6 +47,19 @@ related that happens locally on your computer. This cheat sheet features the mos
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th align="left">Figma</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Figma is free for students and educators. Figma’s tools are easy to learn and beloved by professionals. Get verified to access our Education plan and get all of the paid perks of our Professional plan for free. Figma connects everyone in the design process so teams can deliver better products, faster.</td>
+    <td align="center"><a href="https://www.figma.com/education/">View</a></td>
+  </tr>
+</table>
+
+
+
 <p align="center">
 <a href="https://github.com/SurPathHub/starter-kit">Back</a>
 </p>
