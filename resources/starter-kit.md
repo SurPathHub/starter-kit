@@ -58,7 +58,16 @@ related that happens locally on your computer. This cheat sheet features the mos
   </tr>
 </table>
 
-
+<table>
+  <tr>
+    <th align="left">SCode</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Programming on mobile App SCode is a mobile coding IDE and platform (Compiler for mobile), where you can run your projects. Now you code anytime, anywhere and on the go.</td>
+    <td align="center"><a href="https://jaseundadev.web.app/works/scode/scode.html?fbclid=IwAR1QbGxHjW_tEY0f1qduBXUzR-1hvt24wS9kbQTa5j1ROi9BZMfx8o2fiwQ">View</a></td>
+  </tr>
+</table>
 
 <p align="center">
 <a href="https://github.com/SurPathHub/starter-kit">Back</a>
