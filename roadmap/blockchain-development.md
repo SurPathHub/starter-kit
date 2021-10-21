@@ -15,5 +15,4 @@ DeFi(Decentralized Finance) is one of the main smart contract use cases. As a bl
 
 > [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
-![blockchainappdeveloper-roadmap](https://drive.google.com/uc?export=view&id=1YzR7dqvozBYzNtKyETw29Jn5BfJdNdgI
-)
+![blockchainappdeveloper-roadmap](https://drive.google.com/uc?export=view&id=1YzR7dqvozBYzNtKyETw29Jn5BfJdNdgI)
