@@ -76,7 +76,8 @@ Note: Just click the text to view & to minimize the content. Just click the imag
 | Starter Kit | We provide a starter kit for you | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/starter-kit.md">View Link</a> |
 | Practice | Open Source Practice | <a href="https://github.com/SurPathHub/starter-kit/blob/main/practice/open-source-practice.md">View Link</a> |
 | Useful Repo. | Useful GitHub repositories. | <a href="https://github.com/SurPathHub/starter-kit/blob/main/resources/useful-repositories.md">View Link</a> |
-| Stakes.social | Stakes your OSS project | <a href="https://stakes.social/">View Link</a> |
+| Personal Brand | Explore the importance of Personal Brand (Blog) | <a href="https://dev.to/vinzvinci/helping-you-to-build-your-personal-brand-in-tech-35df">View Link</a> |
+| Stakes.social | Onboard your OSS project and get fund | <a href="https://stakes.social/">View Link</a> |
 
 Note: You don't need to know it all, just choose the path you love. Follow your dream 💡
 
