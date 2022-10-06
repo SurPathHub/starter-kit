@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td>GitHub Learning Lab is an interactive guide to help developers master the art of using $ git and getting more familiar with GitHub by completing fun, realistic projects with the help of their friendly Learning Lab bot. Their goal is to help new developers retain more information and ramp up quickly as they start their journey on sofware development.</td>
-    <td align="center"><a href="https://lab.github.com/">View</a></td>
+    <td align="center"><a href="https://skills.github.com/">View</a></td>
   </tr>
 </table>
 
