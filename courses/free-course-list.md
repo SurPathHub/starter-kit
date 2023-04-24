@@ -3,6 +3,17 @@
 
 <table>
   <tr>
+    <th align="left">Scrimba</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Scrimba is a Platform where you can learn to code by building projects from scratch.They have various Courses on Web Development for free.</td>
+    <td align="center"><a href="https://scrimba.com/allcourses">View</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th align="left">FreeCodeCamp</th>
     <th>Link</th>
   </tr>
